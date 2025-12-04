@@ -75,9 +75,4 @@ Power Query
 
 Excel / CSV
 
-📁 Project Files Structure
-Folder	Description
-/pbix/	Main Power BI file
-/data/	Input dataset (CSV/Excel)
-/screenshots/	Static previews
-/docs/summary.md	Analytical interpretation
+
